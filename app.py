@@ -55,4 +55,4 @@ def delete(sno):
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=9999)
+    app.run(debug=False, port=9999)
